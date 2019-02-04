@@ -1,0 +1,27 @@
+/* Your button CSS code here */
+.btn {
+  background-color: red;
+  padding: 10px 5px;
+  text-decoration: none;
+  color: white;
+  border-radius: 10px;
+}
+
+.btn-primary:hover {
+  background-color: black;
+}
+
+.btn-secondary:hover {
+  background-color: red;
+}
+
+.btn-primary {
+  background-color: #900000;
+  border: 1px solid white;
+}
+
+.btn-secondary {
+  color: #556E75;
+  background-color: white;
+  border: 1px solid #BD00BC
+}
